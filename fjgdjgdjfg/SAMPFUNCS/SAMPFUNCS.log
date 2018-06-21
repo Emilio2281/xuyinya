@@ -1,0 +1,88 @@
+[00:54:42] SAMPFUNCS v5.3.3 release #19 (SA-MP 0.3.7) loaded. Base address: 0x645D0000.
+[00:54:42] Compiled: Aug  8 2016 13:19:58
+[00:54:42] Initializing opcodes...
+[00:54:42] Opcodes initialized successfully. Total opcodes count: 382.
+[00:54:42] Initializing plugins...
+[00:54:42] SF Plugin "ada.sf" loaded.
+[00:54:42] SF Plugin "nocols_037.sf" loaded.
+[00:54:45] samp.dll base addres: 0x048F0000
+[00:54:45] Installing hooks: 
+[00:54:45] Hook command process input installed.
+[00:54:45] Hook on dialog response installed.
+[00:54:45] Hook init netgame installed.
+[00:54:45] Hook QuitGameHook installed.
+[00:54:45] All hooks installed.
+[00:54:56] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Session started.
+[00:54:56] {C0C0C0}[ML] {C0C0C0}
+MoonLoader v.026-beta loaded.
+[00:54:56] {C0C0C0}[ML] {C0C0C0}Developers: FYP, hnnssy, EvgeN 1137
+
+[00:54:56] {C0C0C0}[ML] {C0C0C0}Copyright (c) 2016, BlastHack Team
+[00:54:56] {C0C0C0}[ML] {C0C0C0}http://blast.hk/moonloader/
+
+[00:54:56] {C0C0C0}[ML] {A9EFF5}(info) {C0C0C0}Working directory: A:\Grand Theft Autо\moonloader
+[00:54:56] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Installing pre-game hooks...
+[00:54:56] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Hooks installed.
+[00:54:56] {C0C0C0}[ML] {F5C28E}(warn) {C0C0C0}Memory test "Win32API: ShowCursor" at address 75C9F670 has failed. Value is 'E9 DB F7 CA 8E', expected 'E9 8B E1 B5 EE'.
+[00:54:56] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Loading script 'A:\Grand Theft Autо\moonloader\!Fisherman bot for DRP by Vlad Horii 2.1.luac'...
+[00:54:56] {C0C0C0}[ML] {FF7070}(error) {E0E0E0}!Fisherman bot for DRP by Vlad Horii 2.1.luac: {C0C0C0}A:\Grand Theft Autо\moonloader\!Fisherman bot for DRP by Vlad Horii 2.1.luac: cannot load incompatible bytecode
+[00:54:56] {C0C0C0}[ML] {FF7070}(error) {E0E0E0}!Fisherman bot for DRP by Vlad Horii 2.1.luac: {C0C0C0}Script died due to an error. (088B71F4)
+[00:54:56] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Loading script 'A:\Grand Theft Autо\moonloader\!Fisherman bot for DRP by Vlad Horii 2.2.luac'...
+[00:54:56] {C0C0C0}[ML] {FA9746}(system) {E0E0E0}!Fisherman bot for DRP by Vlad Horii 2.2.luac: {C0C0C0}Loaded successfully.
+[00:54:56] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Loading script 'A:\Grand Theft Autо\moonloader\autocaptcha.lua'...
+[00:54:56] {C0C0C0}[ML] {FA9746}(system) {E0E0E0}AutoCaptcha: {C0C0C0}Loaded successfully.
+[00:54:56] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Loading script 'A:\Grand Theft Autо\moonloader\bot.lua'...
+[00:54:56] {C0C0C0}[ML] {FA9746}(system) {E0E0E0}AutoFisher: {C0C0C0}Loaded successfully.
+[00:54:56] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Loading script 'A:\Grand Theft Autо\moonloader\BuilderBot.lua'...
+[00:54:56] {C0C0C0}[ML] {FA9746}(system) {E0E0E0}BuilderBot.lua: {C0C0C0}Loaded successfully.
+[00:54:56] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Loading script 'A:\Grand Theft Autо\moonloader\clickwarp.lua'...
+[00:54:56] {C0C0C0}[ML] {FA9746}(system) {E0E0E0}Click Warp: {C0C0C0}Loaded successfully.
+[00:54:56] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Loading script 'A:\Grand Theft Autо\moonloader\SF Integration.lua'...
+[00:54:56] {C0C0C0}[ML] {FA9746}(system) {E0E0E0}SF Integration: {C0C0C0}Loaded successfully.
+[00:54:56] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Installing post-load hooks...
+[00:54:56] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Hooks installed.
+[00:54:56] AutoCaptcha. verison: 0.1(Загружено: 22 капч)
+[00:54:57] Direct3DDevice9 hook installed.
+[00:54:57] Hook RakPeer::HandleRPCPacket installed.
+[00:54:57] Initializing SAMP data...
+[00:54:57] Info initialized.
+[00:54:57] Pools initialized.
+[00:54:57] Player pool initialized.
+[00:54:57] Vehicle pool initialized.
+[00:54:57] Chat initialized.
+[00:54:57] Input initialized.
+[00:54:57] Death list initialized.
+[00:54:57] Dialog initialized.
+[00:54:57] Misc data initialized.
+[00:54:57] Scoreboard initialized.
+[00:54:57] RakNet initialized.
+[00:54:57] ==========================================
+[00:54:57]  SAMPFUNCS v5.3.3 release #19 (SA-MP 0.3.7)
+  Compiled: Aug  8 2016 13:18:13
+
+  Author: FYP
+  Active developers: FYP, SR_Team, EXPORT
+
+  Past developers and special thanks:
+   MogAika, urShadow, legend2360, NarutoUA, Dark_Knight
+
+ Website: http://blast.hk
+ BlastHack © 2013 - 2016
+[00:54:57] ==========================================
+[00:54:57] SAMPFUNCS v5.3.3 release #19 (SA-MP 0.3.7) completely loaded!
+[00:54:57] No collision hack by FYP // BLASTHACK.NET
+[00:54:57] {FF0000}Reconnect for Diamond RP by Vovich
+[00:54:57] {FF0000}For activation please, use command {228FFF}/rec [seconds] {FF0000}and use command {228FFF}/recd
+[00:54:57] [ {00FFFF}Diamond-RP {FFFFFF}- {FF8000}[CLEO] Teleport {FFFFFF}] - Автор: Gabriel__ Спасибо: DarkP1xel. 1.08.2016.
+[00:54:57] [ {00FFFF}Diamond-RP {FFFFFF}- {FF8000}[CLEO] Teleport {FFFFFF}] - Для телепортации поставьте метку на карте и введите /dtp2
+[00:54:57] [ {00FFFF}Diamond-RP {FFFFFF}- {FF8000}[CLEO] Teleport {FFFFFF}] - Для просмотра справки введите /dtp2help
+[00:54:57] [ {00FFFF}Diamond-RP {FFFFFF}- {FF8000}[CLEO] Teleport {FFFFFF}] - Скачать последнюю версию можно сдесь: adf.ly/1cjRIi
+[00:55:01] RegisterCommand Error: Command "taran" already exists.
+[00:55:01] {007fff}DRP {ffffff}Checker Sim-Card Loaded!
+[00:55:01] {ffffff}Author: {007fff}Romelo {ffffff}Activation: {007fff}/dsim
+[00:55:01] {4271ff}DRP {ffffad}Catching Garages Loaded!
+[00:55:01] {ffffad}Author: {4271ff}Romelo {ffffad}Activation: {4271ff}/dgarage
+[00:55:01] {007fff}DRP {ffffff}House Checker Loaded!
+[00:55:01] {ffffff}Author: {007fff}Romelo {ffffff}Commands: {007fff}/dhc /hm /drph
+[01:02:46] Uninitializing SAMPFUNCS...
+[01:02:46] Exited.

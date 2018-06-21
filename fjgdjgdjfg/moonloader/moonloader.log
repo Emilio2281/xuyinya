@@ -1,0 +1,50 @@
+[00:54:42.105988] (system)	Session started.
+[00:54:42.106988] (debug)	Module handle: 647E0000
+
+MoonLoader v.026-beta loaded.
+Developers: FYP, hnnssy, EvgeN 1137
+
+Copyright (c) 2016, BlastHack Team
+http://blast.hk/moonloader/
+
+[00:54:42.106988] (info)	Working directory: A:\Grand Theft Autî\moonloader
+[00:54:42.106988] (debug)	FP Control: 0009001F
+[00:54:42.106988] (debug)	Game: GTA SA 1.0.0.0 US
+[00:54:42.106988] (system)	Installing pre-game hooks...
+[00:54:42.107988] (system)	Hooks installed.
+[00:54:44.562151] (warn)	Memory test "Win32API: ShowCursor" at address 75C9F670 has failed. Value is 'E9 DB F7 CA 8E', expected 'E9 8B E1 B5 EE'.
+[00:54:45.037179] (debug)	Initializing opcode handler table
+[00:54:45.037179] (debug)	package.path = A:\Grand Theft Autî\moonloader\lib\?.lua;A:\Grand Theft Autî\moonloader\lib\?\init.lua;A:\Grand Theft Autî\moonloader\?.lua;A:\Grand Theft Autî\moonloader\?\init.lua;.\?.lua;A:\Grand Theft Autî\moonloader\lib\?.luac;A:\Grand Theft Autî\moonloader\lib\?\init.luac;A:\Grand Theft Autî\moonloader\?.luac;A:\Grand Theft Autî\moonloader\?\init.luac;.\?.luac
+[00:54:45.037179] (debug)	package.cpath = A:\Grand Theft Autî\moonloader\lib\?.dll;
+[00:54:45.037179] (system)	Loading script 'A:\Grand Theft Autî\moonloader\!Fisherman bot for DRP by Vlad Horii 2.1.luac'...
+[00:54:45.037179] (debug)	New script: 088B71F4
+[00:54:45.038180] (error)	!Fisherman bot for DRP by Vlad Horii 2.1.luac: A:\Grand Theft Autî\moonloader\!Fisherman bot for DRP by Vlad Horii 2.1.luac: cannot load incompatible bytecode
+[00:54:45.038180] (error)	!Fisherman bot for DRP by Vlad Horii 2.1.luac: Script died due to an error. (088B71F4)
+[00:54:45.038180] (system)	Loading script 'A:\Grand Theft Autî\moonloader\!Fisherman bot for DRP by Vlad Horii 2.2.luac'...
+[00:54:45.038180] (debug)	New script: 088B71F4
+[00:54:45.065683] (system)	!Fisherman bot for DRP by Vlad Horii 2.2.luac: Loaded successfully.
+[00:54:45.065683] (system)	Loading script 'A:\Grand Theft Autî\moonloader\autocaptcha.lua'...
+[00:54:45.065683] (debug)	New script: 088B7504
+[00:54:45.074184] (system)	AutoCaptcha: Loaded successfully.
+[00:54:45.074184] (system)	Loading script 'A:\Grand Theft Autî\moonloader\bot.lua'...
+[00:54:45.074184] (debug)	New script: 088B768C
+[00:54:45.088686] (system)	AutoFisher: Loaded successfully.
+[00:54:45.088686] (system)	Loading script 'A:\Grand Theft Autî\moonloader\BuilderBot.lua'...
+[00:54:45.088686] (debug)	New script: 088B7814
+[00:54:45.095687] (system)	BuilderBot.lua: Loaded successfully.
+[00:54:45.095687] (system)	Loading script 'A:\Grand Theft Autî\moonloader\clickwarp.lua'...
+[00:54:45.095687] (debug)	New script: 088B799C
+[00:54:45.100187] (system)	Click Warp: Loaded successfully.
+[00:54:45.100688] (system)	Loading script 'A:\Grand Theft Autî\moonloader\SF Integration.lua'...
+[00:54:45.100688] (debug)	New script: 088B7CAC
+[00:54:45.103188] (system)	SF Integration: Loaded successfully.
+[00:54:56.055817] (system)	Installing post-load hooks...
+[00:54:56.055817] (system)	Hooks installed.
+[01:02:46.714125] (system)	Unloading...
+[01:02:46.714125] (system)	!Fisherman bot for DRP by Vlad Horii 2.2.luac: Script terminated. (088B71F4)
+[01:02:46.735127] (system)	AutoCaptcha: Script terminated. (088B7504)
+[01:02:46.736127] (system)	AutoFisher: Script terminated. (088B768C)
+[01:02:46.739127] (system)	BuilderBot.lua: Script terminated. (088B7814)
+[01:02:46.740127] (system)	Click Warp: Script terminated. (088B799C)
+[01:02:46.741127] (system)	SF Integration: Script terminated. (088B7CAC)
+[01:02:46.778129] (system)	Session terminated.
